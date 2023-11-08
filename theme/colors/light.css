@@ -142,7 +142,6 @@
 
 /* Backdrop colors */
 :root:-moz-window-inactive {
-	--gnome-headerbar-background: var(--gnome-window-background);
 	--gnome-tabbar-tab-hover-background: #f3f3f3; /* Hardcoded color */
 	--gnome-tabbar-tab-active-background: #EFEFEF; /* Hardcoded color */
 }

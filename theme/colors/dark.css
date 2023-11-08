@@ -25,7 +25,7 @@
 		--gnome-menu-background: #383838;
 
 		/* Header bar */
-		--gnome-headerbar-background: #303030;
+		--gnome-headerbar-background: #323232;
 		--gnome-headerbar-shade-color: color-mix(in srgb, black 36%, transparent);
 
 		/* Toolbars */
@@ -53,8 +53,8 @@
 
 	/* Backdrop colors */
 	:root:-moz-window-inactive {
-		--gnome-tabbar-tab-hover-background: #2c2c2c; /* Hardcoded color */
-		--gnome-tabbar-tab-active-background: #2e2e2e; /* Hardcoded color */
+		--gnome-tabbar-tab-hover-background: #3f3f3f; /* Hardcoded color */
+		--gnome-tabbar-tab-active-background: #444444; /* Hardcoded color */
 	}
 
 	/* Private colors */
